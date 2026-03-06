@@ -168,7 +168,7 @@ export default function CommunityLandingPage() {
           </div>
         </nav>
 
-        <div className="relative max-w-6xl mx-auto text-center z-10 mt-14 md:mt-16">
+        <div className="relative max-w-6xl mx-auto text-center z-10 mt-14 md:mt-16 pb-8">
           <h1 className="text-5xl md:text-6xl mb-4 font-light tracking-tight" style={{ fontFamily: 'Georgia, serif' }}>
             Cambridge Creative<br/>Synergy Community
           </h1>
